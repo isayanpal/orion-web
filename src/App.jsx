@@ -18,7 +18,7 @@ function App() {
       <Section2 />
       <Section3 />
       <Section4 />
-      <ProblemSection />
+      {/* <ProblemSection /> */}
       <PricingSection />
       <div className="flex flex-col items-center justify-center gap-8 mt-10">
         <h1 className="text-xl sm:text-4xl text-[#06286E] font-bold">
